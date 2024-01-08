@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   columns: #222;
   margin: 0;
   padding-bottom: 50px;
@@ -49,11 +49,11 @@ nav ul {
 
 .nav.active {
   background-color: #fff;
-  box-shadow: 0 20px 10px rgba(0,0,0,0.3);
+  box-shadow: 0, 20px, 10px, #004d;
 }
 
 .nav.active a {
-color: #000;
+  color: #000;
 }
 
 .nav.active .container {
